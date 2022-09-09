@@ -12,7 +12,7 @@ Link to website: https://press-start.herokuapp.com/
 
 ---
 ## 👩‍🏫  How to use the application? 
-- After logging in using the username and passwords, users can add the game with 5 different properties including title, console, genre, rating and the default user ID.
+- After logging in using the username and passwords, users can add the game with 5 different properties including game name, console type, genre and a score/game rating.
 
 - Once entered, users can have their own game library with a random generator suggesting the next game to play based on the genre and the assigned score.
 
@@ -25,7 +25,7 @@ Link to website: https://press-start.herokuapp.com/
 
 ## 💪  Packages/Dependencies used 
 
-bcrypt, connect-mongo, dotenv, ejs, express, express-flash, express-session, mongodb, mongoose, morgan, nodemon, passport, passport-local, validator
+materialize, bcrypt, connect-mongo, dotenv, ejs, express, express-flash, express-session, mongodb, mongoose, morgan, nodemon, passport, passport-local, validator
 
 ---
 
